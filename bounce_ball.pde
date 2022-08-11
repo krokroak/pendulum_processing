@@ -35,6 +35,12 @@ void draw()
             circle_y = 600;
         }
     }
-
-
 }
+
+void mousePressed() // 마우스 누르면 초기화 되게 만들었다.
+{
+    circle_y = 0;
+    time = 0;
+    vel_y = 0;
+}
+
