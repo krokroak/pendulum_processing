@@ -17,4 +17,5 @@
 이렇게 6가지를 만들려고한다.
 
 1. simple gravity example
-(https://user-images.githubusercontent.com/66929200/184115631-75d314cf-0a61-4f1c-815b-748e789c0811.gif)
+
+![gravity_1](https://user-images.githubusercontent.com/66929200/184115939-93a720e5-ddd3-48cf-bd9a-7bb8bec651c3.gif)
