@@ -32,6 +32,7 @@
 4. double pendulum - chaos theory
 
 ![image](https://user-images.githubusercontent.com/66929200/185132898-802b2713-af66-465a-a38f-257242e4723c.png)
-![double_pendulum](https://user-images.githubusercontent.com/66929200/185132555-ea3f0ced-5c42-4db4-b8cc-0472820da0a9.gif)
+
+![Record_2022_08_18_00_39_18_63](https://user-images.githubusercontent.com/66929200/185182630-790fd3d1-5980-4a05-a246-96eb52925122.gif)
 
 
