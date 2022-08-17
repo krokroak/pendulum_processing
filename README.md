@@ -28,3 +28,10 @@
 3. 진자운동 pendulum
 
 ![pendulum](https://user-images.githubusercontent.com/66929200/184544540-bef2d58c-9b0a-4f5a-b674-e6118d4aec54.gif)
+
+4. double pendulum - chaos theory
+
+![image](https://user-images.githubusercontent.com/66929200/185132898-802b2713-af66-465a-a38f-257242e4723c.png)
+![double_pendulum](https://user-images.githubusercontent.com/66929200/185132555-ea3f0ced-5c42-4db4-b8cc-0472820da0a9.gif)
+
+
