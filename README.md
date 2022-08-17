@@ -7,10 +7,9 @@
 개인프로젝트의 골자는 python , cpp , processing 을 이용한 물리엔진 개발 을 하려고한다.
 
 1. 간단한 중력
-2. 공기저항
-3. 진자운동/pendulum
-4. pid control
-5. lqr(솔직히 이건 될지 안될지 모르겠음)
+2 진자운동/pendulum
+3 pid control
+4 lqr(솔직히 이건 될지 안될지 모르겠음)
 
 
 이렇게 6가지를 만들려고한다.
@@ -25,11 +24,11 @@
 ![bounce_ball_@@](https://user-images.githubusercontent.com/66929200/184219161-08f6fc10-7eba-4eeb-b6db-950b058ae59c.gif)
 
 
-3. 진자운동 pendulum
+2. 진자운동 pendulum
 
 ![pendulum](https://user-images.githubusercontent.com/66929200/184544540-bef2d58c-9b0a-4f5a-b674-e6118d4aec54.gif)
 
-4. double pendulum - chaos theory
+2-1. double pendulum - chaos theory
 
 ![image](https://user-images.githubusercontent.com/66929200/185132898-802b2713-af66-465a-a38f-257242e4723c.png)
 
